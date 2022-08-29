@@ -155,7 +155,7 @@ h6 {
 
 @media (max-width: 350px) {
   .header__container {
-    padding: 0 20px 0 20px;
+    padding: 0 10px;
   }
   .header__menu {
     margin-left: 35px;
@@ -231,7 +231,7 @@ h6 {
   .main__wrap {
     max-width: 320px;
     min-height: 615px;
-    padding: 0 0 0 20px;
+    padding: 0 10px;
   }
 }
 /*----------------------------------------------------------------*/
@@ -418,7 +418,7 @@ h6 {
 @media (max-width: 605px) {
   .special-block__container-sm {
     width: auto;
-    padding: 25px;
+    padding: 25px 10px;
     overflow: hidden;
   }
   .special-block__title {
